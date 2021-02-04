@@ -1,6 +1,6 @@
 # Facial Expression Recognition 
 A CNN based facial expression recognition system that performs recognition on real-time video and image data. 
-Classifies each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Neutral, 5=Sad, 6=Surprise).
+Classifies each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy,4=Neutral, 5=Sad,6=Surprise).
 
 ## Files
 1) FER_2013.ipynb - Contains code pertaining to training of the CNN model
