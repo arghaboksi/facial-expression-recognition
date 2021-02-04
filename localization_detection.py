@@ -11,7 +11,7 @@ face_cascade = cv2.CascadeClassifier(
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 # Video Source to default webcam(put 0), can also be set to local disk file
-video_capture = cv2.VideoCapture('facial_expressions.mp4')
+video_capture = cv2.VideoCapture('basic_emotions.mp4')
 
 # Loads the trained model
 trained_model = model_and_weight()
