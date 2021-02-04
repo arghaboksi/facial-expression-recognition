@@ -32,3 +32,26 @@ The Facial Expression Recognition 2013 (FER-2013) Dataset
 
 ## Performance 
 
+Tested the model both on video clips loaded from disk as well as webcam. Some screenshots of video frames - 
+
+
+![](Screenshots/Capture_1.PNG)
+
+![](Screenshots/Capture_2.PNG)
+
+![](Screenshots/Capture_3.PNG)
+
+![](Screenshots/Capture_4.PNG)
+
+![](Screenshots/Capture_5.PNG)
+
+![](Screenshots/Capture_6.PNG)
+
+![](Screenshots/Capture_7.PNG)
+
+![](Screenshots/Capture_8.PNG)
+
+![](Screenshots/Capture_9.PNG)
+
+![](Screenshots/Capture_10.PNG)
+
