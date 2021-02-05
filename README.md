@@ -28,7 +28,7 @@ The Facial Expression Recognition 2013 (FER-2013) Dataset
 
 3) Tensorflow(Keras) : for training the CNN model that performs expression recognition
 
-4) OpenCV : for localization of faces acrosss a particular frame
+4) OpenCV : for localization of faces across a particular frame
 
 ## Performance 
 
