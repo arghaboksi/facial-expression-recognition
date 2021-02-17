@@ -9,7 +9,7 @@ Classifies each face based on the emotion shown in the facial expression into on
 
 3) model.json - Stores the model architecture information
 
-4) model.py - Loads the model architecture along with pretrained weights, makes it available to localization_detection script
+4) model.py - Loads the model architecture along with pretrained weights, makes it available to localization_recognition script
 
 5) model_weights.h5 - Pretrained weights
 
